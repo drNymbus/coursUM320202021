@@ -21,7 +21,8 @@ svg {
 
 #selector {
     float: left;
-    /* font-size: 20pt; */
+    font-size: 15pt;
+    width: 70%;
 }
 
 #information {

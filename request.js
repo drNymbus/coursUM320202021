@@ -40,9 +40,9 @@ class Selector {
 
         // TODO
         var description = [
-            "",
-            "",
-            ""
+            " :  la dette du pays pour l'année 2019 en dollars",
+            " :  le montant des salaires versés dans un pays pour l'année 2019 en dollars",
+            " :  le produit intérieur brut (PIB) par pays pour l'année 2019 en dollars"
         ];
         for (var i in filters) {
             var filter = filters[i];
